@@ -1,0 +1,17 @@
+.header{
+    background-color: cadetblue;
+    font-size: 12px;
+}
+
+.descripcion{
+    font-size: 10px;
+    text-align: center;
+}
+.logo{
+    width: 30%;
+}
+h3{
+    text-align: center;
+    color: rgb(80, 20, 136);
+    font-size: 25px;
+}
